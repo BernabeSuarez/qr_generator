@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import ttk
-from functools import partial
 import pyqrcodeng
 
 
