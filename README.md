@@ -1,7 +1,7 @@
 # Qr generator
 ### utiliza pyqrcodeng y Tkinter
 
-**Generador de codigos qr con 4 inputs de datos a mostrar
+**Generador de codigos qr con 4 inputs de datos a mostrar**
 
 con PyInstaller generar el .exe para windows
 
